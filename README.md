@@ -13,7 +13,9 @@ This repository provides a structured set of custom instructions for ChatGPT, en
 ## Setup
 1. Navigate to **Settings** → **Personalization** → **Custom Instructions**.
 2. Ensure the **Custom Instructions** feature is turned on.
-3. Paste the sections below with replaced placeholders.
+3. Paste the sections below with replaced placeholders into:
+   3.1. **What would you like ChatGPT to know about you to provide better responses?**
+   3.2. **How would you like ChatGPT to respond?**
 4. Amend **Lifestyle**, **Professional Background**, **Goals**, **Interests** as needed, using the provided examples as a reference.
 5. Enable the **"Enable for new chats"** option.
 
