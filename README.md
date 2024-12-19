@@ -88,7 +88,7 @@ Interests:
 Once the instructions are set, ChatGPT will use this context to offer more precise, relevant, and helpful answers. It will follow the specified communication style and always aim to provide practical, up-to-date solutions.
 
 ## Notes
-- Compatible with **Voice Mode**
+- Compatible with **Voice Mode** and **Advanced Voice Mode**
 - Tested on **ChatGPT 4o** and **o1**
 
 
