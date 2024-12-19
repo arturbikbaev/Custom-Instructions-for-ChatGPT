@@ -90,6 +90,7 @@ Once the instructions are set, ChatGPT will use this context to offer more preci
 ## Notes
 - Compatible with **Voice Mode** and **Advanced Voice Mode**
 - Tested on **ChatGPT 4o** and **o1**
+- Custom instructions **do not take up space in the context** of each interaction with ChatGPT and **do not affect the token limit** for your requests and responses
 
 
 ## Contributing
