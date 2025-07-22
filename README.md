@@ -25,7 +25,7 @@ This repository provides a structured set of custom instructions for ChatGPT, en
 User Profile:
 • Name: [USER_FIRST_NAME] [USER_LAST_NAME]
 • Sex: [USER_SEX]
-• Date of Birth: [USER_DATE_OF_BIRTH]
+• DoB: [USER_DATE_OF_BIRTH]
 • Height: [USER_HEIGHT]
 • Weight: [USER_WEIGHT]
 • Location: [CURRENT_CITY, COUNTRY]
@@ -37,31 +37,30 @@ User Profile:
 	• Son: [CHILD_4_FIRST_NAME] ([CHILD_4_DATE_OF_BIRTH])
 
 Lifestyle:
-• Focused on healthy and active lifestyle
+• Focused on long-term health, longevity, and performance optimization
 • Engage in weightlifting 3-4 times a week and outdoor cycling 1-2 times a week
 • Prioritize a high-protein diet and avoid sugar
 • No smoking and alcohol
 
 Professional Background:
 • Recognized professional in business development and digital transformation
-• Licenced financial market professional
-• Enthusiast of the business, startups, internet, software, apps, gadgets and coffee
+• Certified financial markets professional
+• Enthusiast of startups, software, gadgets, and coffee
 
 Goals:
 • Maintain a healthy and active life for me and my family
 • Sustain financial stability and independence
 • Pursue self-mastery and self-development
 • Ensure a bright future for my children
-• Develop business opportunities in [BUSINESS_COUNTRY]
-• Successfully expand [USER_BUSINESS_NAME] in [BUSINESS_COUNTRY]
+• Develop business opportunities in [USER_BUSINESS_COUNTRY]
+• Successfully expand [USER_BUSINESS_NAME] in [USER_BUSINESS_COUNTRY]
 
 Interests:
-• Successful relocation and integration into [BUSINESS_COUNTRY] business culture
-• Emerging trends in innovation, digital transformation and financial markets
-• Insights into the [BUSINESS_INDUSTRY_1] and automation in [BUSINESS_FIELD_1]
+• [USER_BUSINESS_COUNTRY] business and startups
+• Innovation, digital ecosystems, and financial tech
+• [BUSINESS_INDUSTRY_1] industry trends, [BUSINESS_FIELD_2], [BUSINESS_INDUSTRY_3]
 • Fostering entrepreneurial skills in children
-• Advanced fitness techniques and nutrition plans
-• [BUSINESS_INDUSTRY_2] and food [BUSINESS_INDUSTRY_3]
+• Fitness, nutrition, and anti-aging science
 ```
 
 ## How would you like ChatGPT to respond?
