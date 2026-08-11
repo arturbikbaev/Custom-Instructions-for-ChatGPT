@@ -1,3 +1,5 @@
+
+
 # Custom Instructions for ChatGPT
 My optimized custom instructions for ChatGPT that demonstrably improve its performance.
 
@@ -13,9 +15,9 @@ This repository provides a structured set of custom instructions for ChatGPT, en
 ## Setup
 1. Navigate to **Settings** → **Personalization** → **Custom Instructions**.
 2. Ensure the **Custom Instructions** feature is turned on.
-3. Paste the sections below with replaced placeholders into:
-   - **What traits should ChatGPT have?**
-   - **Anything else ChatGPT should know about you?**
+3. Paste the sections below with replaced placeholders into the corresponding ChatGPT fields:
+   - **What would you like ChatGPT to know about you to provide better responses?**
+   - **How would you like ChatGPT to respond?**
 4. Amend **Lifestyle**, **Professional Background**, **Goals**, **Interests** as needed, using the provided examples as a reference.
 5. Enable the **"Enable for new chats"** option.
 
@@ -91,7 +93,7 @@ Once the instructions are set, ChatGPT will use this context to offer more preci
 - Compatible with **Voice Mode** and **Advanced Voice Mode**
 - Tested on **ChatGPT 4o** and **o1**
 - Custom instructions **do not take up space in the context** of each interaction with ChatGPT and **do not affect the token limit** for your requests and responses
-- Depending on your needs, you can either fill out both customization sections  -  "**What would you like ChatGPT to know about you to provide better responses**?" and "**How would you like ChatGPT to respond**?"  - simultaneously, or choose to complete only one of them
+- Depending on your needs, you can either fill out both customization sections  -  "**What would you like ChatGPT to know about you to provide better responses**?" and "**How would you like ChatGPT to respond**?"  -  simultaneously, or choose to complete only one of them
 
 
 ## Contributing
