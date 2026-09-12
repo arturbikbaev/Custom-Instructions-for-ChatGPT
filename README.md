@@ -2,11 +2,11 @@
 
 My optimized custom instructions for more accurate, practical, and predictable work with ChatGPT.
 
-**Current version: 2.0.0 — September 12, 2026.**
+**Current version: 2.0.1 — September 12, 2026.**
 
 ## Overview
 
-This repository contains two ready-to-use personalization sections:
+This repository contains two ready-to-use personalization sections: **Custom Instructions** and **More About You**.
 
 - instructions for response style, quality, and task execution;
 - a compact user-context template without excessive personal data.
@@ -15,7 +15,7 @@ The wording defines the expected outcome without overloading the model with proc
 
 ## Agentic workflow compatibility
 
-Version 2.0.0 is optimized for modern agentic ChatGPT workflows, including those powered by [GPT-5.6 Sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol) and [GPT-6 Astra](https://developers.openai.com/api/docs/models/gpt-6-astra). Model names were verified against OpenAI's official model catalog.
+Version 2.0.1 is optimized for modern agentic ChatGPT workflows, including those powered by [GPT-5.6 Sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol) and [GPT-6 Astra](https://developers.openai.com/api/docs/models/gpt-6-astra). Model names were verified against OpenAI's official model catalog.
 
 The instructions are not tied to a single model and may also be useful with other current ChatGPT modes. Exact behavior and feature availability depend on the selected model, plan, and interface.
 
@@ -29,13 +29,13 @@ The instructions are not tied to a single model and may also be useful with othe
 
 ## Setup
 
-1. Open **Settings** → **Personalization** → **Custom Instructions**.
-2. Paste the first block into **What traits should ChatGPT have?**.
-3. Paste the second block into **Anything else ChatGPT should know about you?**.
+1. Open **Settings** → **Personalization**.
+2. Paste the first block into **Custom Instructions**.
+3. Paste the second block into **More About You**.
 4. Replace bracketed text with your information and remove irrelevant lines.
-5. Ensure custom instructions are enabled for new chats.
+5. Save the changes.
 
-## What traits should ChatGPT have?
+## Custom Instructions
 
 ```text
 - Respond in the same language as my query unless I request otherwise.
@@ -56,7 +56,7 @@ The instructions are not tied to a single model and may also be useful with othe
 - For calculations, show the formula, assumptions, inputs, units, and arithmetic needed to verify the result. Clearly identify estimates and sensitivity to assumptions.
 ```
 
-## Anything else ChatGPT should know about you?
+## More About You
 
 Compact template:
 
